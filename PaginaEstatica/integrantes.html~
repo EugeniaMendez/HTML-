@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta name="author" content="alumno4" />
+<meta name="generator" content="Bluefish 2.2.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="ES"/>
+<meta name="copyright" content="Eugenia Mendez" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="html, estilos, diseño, css, bonjovi, index, banda" />
+<meta name="description" content="Pagina estatica dedica a la banda Bon Jovi" />
+<title>Integrantes de la banda</title>
+<link rel="stylesheet" type="text/css" href="Estilos/estilos.css" media="screen"/>
+</head>
+<body>
+<div id="contenedor">
+<div id="encabezado">
+</div>
+<h1>Integrantes</h1>
+<div id="menu">
+<ul>
+ <li><a href="index.html">Inicio</a></li>
+ <li><a href="integrantes.html">Integrantes</a></li>
+ <li><a href="musica.html">Musica</a></li>
+ <li><a href="galeria.html">Galeria</a></li>
+ <li><a href="videos.html">Videos</a></li>
+ <li><a href="extras.html">Extras</a>
+ <ul>
+  <li><a href="historia.html">Historia</a></li>
+  <li><a href="tour.html" >Tours</a></li>
+</ul>
+</ul>
+</div>
+<div id="contenido">
+<h2>John Francis Bongiovi</h2>
+
+<p>
+John Francis Bongiovi Jr., conocido por su nombre artístico Jon Bon Jovi, es un músico, actor, compositor, filántropo y productor discográfico estadounidense, reconocido por ser el vocalista y líder de la banda de rock Bon Jovi. Desde 2009 forma parte del prestigioso "Songwriters Hall of Fame" (Salón de la Fama de los compositores). En 2012, Jon Bon Jovi se sitúo en el número 50 en la lista "Power 100" de la revista Billboard, un ranking sobre las personas más influyentes en el negocio de la música ("The Most Powerful and Influential People in the Music Business"). En 1996, la revista People lo nombró como una de las cincuenta personas más bellas del mundo ("50 Most Beautiful People in the World"). En 2000, la misma revista lo nombró como la estrella de rock más sexy ("Sexiest Rock Star") y también se colocó en el número 13 en la lista de la cadena VH1 sobre los cien artistas más atractivos ("100 Sexiest Artists").</p>
+
+<p>Entre sus principales influencias se encuentran Bruce Springsteen, Bob Dylan y Aerosmith. Es dueño de un equipo de la Arena Football League, los Philadelphia Soul. Él es también el fundador de The Jon Bon Jovi Soul Foundation, que fue creada en 2006 para combatir los problemas relacionados con las familias e individuos sin hogar o en el desamparo económico.</p>
+
+<p>John Francis Bongiovi nació el 2 de marzo de 1962 en Perth Amboy (Nueva Jersey), hijo de Carol Sharkey y de John Francis Bongiovi, Sr., ambos ex miembros de Cuerpo de Marines de los EEUU.</p>
+
+<p>En 1977 se graduó en la escuela y forma la banda Atlantic City Expressway junto con su compañero de clase David Bryan Rashbaum. Años más tarde, en 1980, luego de unos conciertos en bares, Jon Elías Bon Jovi decide cambiar el nombre a The Rest. Ese mismo año escribe la canción «Runaway», la cual es utilizada en el disco mixto que Chip Hobart estaba produciendo; «Runaway» se convertiría en la canción más destacada del álbum. A finales de 1980, Tony Bongiovi lo contrata para que interprete la canción «R2-D2 We Wish You a Merry Christmas» del álbum navideño Christmas in the Stars. Durante todo este tiempo, Jon realizó varias grabaciones de canciones con Atlantic City Expressway, las cuales estaban recopiladas en The Power Station Years, tales como «Talking in Your Sleep» o «More Than We Bargained For».</p>
+
+<p>Ya en 1982, Jon y su banda John Bongiovi and the Wild Ones empezaron a grabar los demos de algunas canciones que se incluirían en su primer álbum oficial como banda, entre ellas destacan «She Don't Know Me» y «Summertime Blues».</p>
+
+<h3>Instrumentos</h3>
+
+<ul>
+<li>Vos (tenor)</li>
+<li>Piano</li>
+<li>Armonica</li>
+<li>trompa</li>
+<li>Percusion</li>
+<li>Trompeta</li>
+<li>trombon</li>
+<li>Maracas</li>
+<li>Guitarra</li>
+</ul>
+
+
+<h2>David Bryan Rashbaum</h2>
+
+<p>Nacido en Edison (Nueva Jersey), Bryan comenzó a estudiar el piano a la edad de siete años. Se graduó de la J. P. Stevens Instituto en Edison. Emery Hack, un profesor de la Juilliard School, fue su profesor durante trece años. Su padre, Eddie Rashbaum, tocaba la trompeta.</p>
+
+<p>Se casó con April McLean el 25 de agosto de 1990. Se conocían desde su época de estudiantes se divorciaron en el 2004 después de haber tenido tres hijos.</p>
+
+<p>Bryan fue el primero en recibir una llamada de Jon Bon Jovi, cuando éste último recibió un contrato de grabación, puesto que eran amigos del instituto, con el que grabó su primer álbum en 1984.</p>
+
+<p>En 1999 sufre un accidente donde casi pierde una mano</p>
+
+<p>También es co-autor de un musical de Memphis, que recibió excelentes críticas desde su introducción en Broadway,el cual ha ganado 4 Premios Tony. Este musical cuenta la historia del primer DJ que ha tocado la música negra en la radio.</p>
+
+<h3>Instrumentos</h3>
+<ul>
+<li>Voz </li>
+<li>Teclados</li>
+<li>Piano</li>
+<li>Violin</li>
+<li>viola</li>
+<li>acordeon</li>
+<li>clarinete </li>
+<li>guitarra</li>
+<li>Trompeta </li>
+</ul>
+
+<h2>Héctor Samuel Juan Torres (Tico Torres)</h2>
+
+<p>A pesar de empezar tocando la guitarra a los quince años vio claro que su verdadera vocación era la batería. Su primer grupo serio se llamaba The Hullabaloo y era de Nueva Jersey. Ya de joven era un músico con una gran facilidad para asimilar todos los estilos, de modo que pasó por un sinfín de grupos tocando de todo, desde jazz, rythm & blues,country o rock & roll. Como Richie Sambora, fue un destacado músico de estudio grabando su primer disco con un grupo llamado Loose Change y tocaría en directo para artistas tan reconocidos como Miles Davis, Chuck Berry, The Marvelettes y Frankie & The Knockouts, grupo que dejó con un álbum a medias en cuanto su amigo Alec Jon Such lo llamó para formar parte en un grupo que por aquel entonces se llamaba Jon Bon Jovi and the Wild One´s y que más tarde sería conocido como Bon Jovi.</p>
+
+<p>Durante los años 80´s y 90´s Torres fue una pieza fundamental para consolidar el éxito mundial de la banda. Durante las giras se le podía encontrar frecuentemente haciendo bocetos, pero no fue sino hasta 1993 cuando decidió explorar el arte de la pintura como una segunda carrera, y una vez más sin un entrenamiento formal demostró su talento natural. Aparte de ser batería, también es pintor y piloto.</p>
+
+<h3>Instrumentos</h3>
+
+<ul>
+<li>Voz</li>
+<li>Bateria</li>
+<li>Percusion</li>
+<li>Guitarra</li>
+</ul>
+
+<h2>Hugh John McDonald</h2>
+
+<p>es el bajista de la banda estadounidense Bon Jovi desde 1994. Sustituyó a Alec John Such. A pesar de haber llevado tantos años con el grupo, no se le consideró miembro oficial hasta 2016, de la mano del nuevo álbum "This House Not For Sale". Vale aclarar que componía el bajo para estudio de Bon Jovi desde 1983. En 1994, tras la salida de Alec, a Hugh se le propone ser miembro oficial, cosa que éste rechaza debido a que no siendo miembro oficial puede trabajar con otras bandas. Sin embargo, hasta el día de hoy, Hugh sigue trabajando con Bon Jovi al 100% en estudio y en vivo.</p>
+
+<p>También ha colaborado en los álbumes solistas de Richie Sambora y Jon Bon Jovi, además de haber trabajado con músicos de la talla de Alice Cooper o Ringo Starr.
+</p>
+
+<h3>Instrumentos</h3>
+
+<ul>
+<li>Voz</li>
+<li>Guitarra</li>
+<li>Bajo</li>
+<li>Banjo</li>
+</ul>
+
+<h2>Philip Eric Xenidis</h2>
+
+<p>es el guitarrista oficial de la banda de rock norteamericana Bon Jovi. Nacio en Toronto, Ontario, Canadá,el 10 de marzo de 1966. Conocido artisticamente como Phil X</p>
+
+<p>Phil X es un guitarrista de estudio prolífico de preferencia con estilos musicales al Hard rock, Heavy metal, Rock alternativo, Rock melodico,Rock industrial.</p>
+
+<p>En junio del 2016 es considerado el guitarrista oficial de la prestigiosa Banda Bon Jovi luego de la partida de su guitarrista virtuoso Richie Sambora en el 2013 quien afirmo que no regresaria mas a la banda.</p>
+<h3>Instrumentos</h3>
+
+<ul>
+<li>Guitarra</li>
+<li>Voz</li>
+<li>Percusion</li>
+<li>Bouzouki</li>
+<li>Mandolina</li>
+</ul>
+</div>
+</div>
+<div id="pie">
+integrantes 2/11/2016
+</div>
+</body>
+</html>

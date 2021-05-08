@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta name="author" content="alumno4" />
+<meta name="generator" content="Bluefish 2.2.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="ES"/>
+<meta name="copyright" content="Eugenia Mendez" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="html, estilos, diseño, css, bonjovi, index, banda" />
+<meta name="description" content="Pagina estatica dedica a la banda Bon Jovi" />
+<title>Integrantes de la banda</title>
+<link rel="stylesheet" type="text/css" href="Estilos/estilos.css" media="screen"/>
+	<title></title>
+</head>
+<body>
+<div id="contenedor">
+<div id="encabezado">
+</div>
+<div id="menu">
+<ul>
+ <li><a href="index.html">Inicio</a></li>
+ <li><a href="integrantes.html">Integrantes</a></li>
+ <li><a href="musica.html">Musica</a></li>
+ <li><a href="galeria.html">Galeria</a></li>
+ <li><a href="videos.html">Videos</a></li>
+ <li><a href="extras.html">Extras</a>
+ <ul>
+  <li><a href="historia.html">Historia</a></li>
+  <li><a href="tour.html" >Tours</a></li>
+</ul>
+</ul>
+</div>
+<div id="contenido">
+<h1>Historia de la Banda</h1>
+<p>Bon Jovi ha alcanzado la cima de la popularidad con una imagen confeccionada a medida para gustar a los adolescentes. Así rezaba el titular que el quincenal de rock americano Rolling Stone dedicó al fenómeno Bon Jovi en mayo de 1987. "Bon Jovi tiene la más hermosa melena de toda la historia del rock. Pero no se la deja por seguir la moda, sino como reacción a los sufrimientos que su padre, peluquero de Nueva Jersey, le ocasionaba con periódicos y radicales cortes de pelo."</p>
+
+<p>Jon Frank Bongiovi (este es su verdadero nombre) nació el 2 de marzo de 1962 en Sayreville, Nueva Jersey. Su padre era un peluquero de origen siciliano, su madre una ex "conejita" de un club Playboy. A los catorce años descubrió la música: tomó lecciones de guitarra, su madre le compró su primer instrumento, no se perdía ni un concierto y vestía como los ídolos de sus discos favoritos, Aerosmith. Naturalmente, no faltaron las disputas con su padre, que quería cortarle el pelo cada dos semanas, que deseaba verlo bien vestido y que estaba empeñado en que siguiera una carrera profesional digna. Jon Bon Jovi recordaría, años después, ya en la fama: "Mi padre es una persona realmente estupenda. Nos hemos hecho muy amigos y ahora es él quien se ocupa de mis cabellos. Pero cuando yo era pequeño le hubiera gustado verme elegante y con el pelo corto y bien peinado".</p>
+
+<p>Las disputas terminaron al cumplir Jon dieciocho años, cuando, tras diplomarse, fue enviado a Nueva York por su primo Tony Bongiovi, personaje muy conocido en los ambientes musicales, por ser propietario de los famosos estudios Power Station, por los que han pasado todos los grandes mitos del rock moderno. Jon recuerda: "En mi ambiente, un chico que no quería ir a la universidad no tenía muchas oportunidades. Para trabajar en mi ciudad, sólo había una fábrica de barnices. Tres de mis amigos, tras diplomarse, se enrolaron en la marina por desesperación. Yo al menos había aprendido a tocar la guitarra, y cuando mi padre me habló del primo Tony creí morir de felicidad".</p>
+
+<p>Para el joven Jon esto fue el paraíso. Entró en el ambiente dispuesto para cualquier trabajo, se conformaba con dormir en el diván, y apenas podía disfrutar de sus horas libres en los estudios para hacer prácticas con los instrumentos y las técnicas de grabación. Precisamente esta actividad sería motivo de disputa y de batallas legales entre Jon y Tony Bongiovi, quien en 1984 solicitó a su ya famoso primo un reembolso por haber contribuido en su carrera. Pero en 1980 esos asuntos legales todavía estaban lejanos. Jon era un chico dinámico: había formado el grupo Reat, podía charlar con grandes músicos y estudiar sus secretos en el estudio.</p> 
+
+<p>De aquello cuenta: "Cada día era una sorpresa. Podían llegar Bruce Springsteen o Mick Jagger, y yo estaba allí con ellos, los tenía a pocos metros de mí, mientras que antes los tenía como a mitos inalcanzables". Pero también fue un período importante para la elaboración de su estilo musical. Jon había llegado a Nueva York llevando consigo sus pasiones de adolescente: Ramones, Ted Nugent, Aerosmith y, naturalmente, Bruce Springsteen, cuya influencia se hará sentir en las letras de sus canciones.</p>
+
+<p>Pero trabajar en los Power Station Studios también le permitió conocer a músicos nuevos, intercambiar ideas y experiencias y encontrar a los chicos que más tarde formarían parte de su banda: el teclista David Bryan (su verdadero apellido es Rashbaum), nacido el 7 de febrero de 1962, el experto batería Tico Torres (7 de octubre de 1953) y el bajista Alee John Such (14 de noviembre de 1956), que en aquel período tocaba con un grupo de Nueva Jersey llamado Phantom's Opera. Este último presentó a Jon al guitarrista Richie Sambora (11 de julio de 1959). Así nació Bon Jovi. </p>
+
+<p>El primer resultado fue la canción ‘Runaway', que alcanzó un buen éxito a nivel local y que llamó la atención de Derek Shulman, vicepresidente de Polygram, que los puso de inmediato bajo contrato. Su ascenso hacia el éxito fue rápido. Los intereses del grupo estaban a cargo de su manager, Doc McGhee, quien en 1988 sería culpado de tráfico de drogas y condenado a cinco años (pena suspendida tras su donación de 250.000 dólares en favor de una organización antidroga). En 1983, en la primera actuación importante del grupo (como teloneros de ZZ Top en el Madison Square Garden de Nueva York), Such salió al escenario con una pistola y apuntó al público. Al final de la actuación fue detenido por la policía, aunque la historia terminó con una regañina y la promesa de no volver a hacerlo.</p>
+
+<p>Tras haber declinado la oferta de actuar en la película 'Footloose', Jon llevó a los suyos a trabajar en su primer álbum homónimo, que se publicó en abril de 1984 y que contiene ocho temas (entre ellos el ya famoso 'Runaway') que muestran el objetivo del grupo sin sombra de duda: un rock dinámico pero no privado de momentos más tranquilos aunque no menos valiosos (como, por ejemplo, la balada 'She dor't know me').</p>
+
+<p>El álbum llegó al número 43 de las listas americanas, un óptimo resultado para una banda debutante y, lo que quizás es más importante, obtuvo óptimos reconocimientos a nivel internacional gracias al "Super Rock Tour", en el que Bon Jovi, junto a Scorpions y Whitesnake, actuaron incluso en Japón.</p>
+
+<p>En mayo de 1985 llegó a las tiendas el segundo álbum de Bon Jovi, ‘7800 Fahrenheit’, producido por Lance Quinn, que en pocas semanas consiguió el disco de oro. El nuevo disco, que contiene canciones como ‘Tokyo road’, ‘In and out of love’ y ‘King of the mountain’, revela sonidos más maduros; sus letras narran historias de la calle, carreras de coches, amoríos de bar. El grupo había demostrado que sabía lo que se hacía, pero todavía le faltaba algo para acceder a un éxito más amplio. Jon Bon Jovi encontró ese algo en la imagen de la banda, a la que hizo más agresiva y refinada: lo que se necesita para captar al público femenino, habitualmente excluido de los placeres del rock duro (un camino similar, pero con menor resultado artístico, es el que siguen los suecos Europe). </p>
+
+<p>En el verano de 1986 salió su tercer álbum, ‘Slippery when wet’, producido por Bruce Fairbairn. El disco, que incluye algunas canciones de óptima calidad, como ‘Livin' on a prayer’, ‘Let it rock’, la balada ‘Wanted dead or alive’, y ‘You give love a bad name’, entró de inmediato en las listas (en las que permaneció durante más de año y medio), y en un par de semanas alcanzaba el primer puesto. Las cosas también marchaban muy bien en Europa, y Japón. Gracias a óptimos videoclips y a un demoledor programa de conciertos (250 sólo en 1987), el grupo se puso a la cabeza de la nueva generación de grupos de rock duro, rabioso, a veces metálico: lite-metal, metal ligero, es la etiqueta que se le puso a este nuevo género que, en el verano de 1987, tenía cinco álbumes entre los seis primeros de las listas americanas. </p>
+
+<p>Y, naturalmente, uno de ellos era ‘Slippery when wet’. El 22 de agosto de 1987, el grupo actuó en último lugar, como invitado de excepción, en el castillo de Donnington, frente a setenta mil personas. A causa del mal tiempo, Bon Jovi llegaron en helicóptero y actuaron tras Cinderella (un grupo al que el propio Jon había conseguido un contrato discográfico con Mercury); luego, para el gran final, también salieron al escenario Bruce Dickinson, de Iron Maiden, Gene Simmons y Paul Stanley, de Kiss, y Dee Snider, ex líder de Twisted Sister. Una noche de gran metal que quedará en la historia. </p>
+
+<p>En septiembre de 1988 le llegó el turno a ‘New Jersey’, su cuarto álbum, también producido por Fairbairn. Sus canciones son arrolladoras: ‘Bad medicine’, ‘Living in sin’, ‘Love for sale’, ‘Lay your hand on me’, ‘Stick to your guns’. Prácticamente todo el mundo se entusiasmó con el nuevo álbum del grupo. Ya en 1990, Jon Bon Jovi edita su primer álbum en solitario, ‘Blaze Of Glory’, inspirado en la película Young Guns II, consiguiendo un gran éxito.</p>
+
+<p>Hoy en día, Bon Jovi son una gran realidad del rock mundial: ejemplo perfecto de una música dinámica pero ligera en contenidos que encuentra lugar en los corazones de los más jóvenes amantes del rock. 
+</p>
+</div>
+</div>
+<div id="pie">
+</div>
+</body>
+</html>

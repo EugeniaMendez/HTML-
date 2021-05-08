@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title></title>
+<meta name="author" content="alumno4" />
+<meta name="generator" content="Bluefish 2.2.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="ES"/>
+<meta name="copyright" content="Eugenia Mendez" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="html, estilos, diseño, css, bonjovi, index, banda" />
+<meta name="description" content="Pagina estatica dedica a la banda Bon Jovi" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="Estilos/estilos.css" media="screen"/>
+</head>
+<body>
+<div id="contenedor">
+<div id="encabezado">
+</div>
+<div id="menu">
+<ul>
+ <li><a href="index.html">Inicio</a></li>
+ <li><a href="integrantes.html">Integrantes</a></li>
+ <li><a href="musica.html">Musica</a></li>
+ <li><a href="galeria.html">Galeria</a></li>
+ <li><a href="videos.html">Videos</a></li>
+ <li><a href="extras.html">Extras</a>
+ <ul>
+  <li><a href="historia.html">Historia</a></li>
+  <li><a href="tours.html" >Tours</a></li>
+</ul>
+</ul>
+</div>
+<div id="contenido">
+<table border="1"summary="esta tabla contiene la discografia de la banda bon-jovi" >
+<caption>Tabla de su discografia</caption>
+<thead>
+<tr>
+<th>AÑO</th>
+<th>NOMBRE</th>
+<th>Nº CANCIONES</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="3">Informacion oficial sacada de <a href="https://www.google.com.ar/search?q=discografia+de+bon+jovi&oq=discografia+de+bon+jovi&aqs=chrome.0.69i59j0l5.1093j0j7&sourceid=chrome&es_sm=93&ie=UTF-8">Wikipedia</a></td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td>18 de agosto de 1986</td>
+<td>Slippery When Wet es el nombre</td>
+<td>10</td>
+</tr>
+<tr>
+<td>11 de octubre de 1994</td>
+<td>Cross Road </td>
+<td>14</td>
+</tr>
+<tr>
+<td>13 de junio del 2000</td>
+<td>Crush</td>
+<td>13</td>
+</tr>
+<tr>
+<td>29 de octubre de 210</td>
+<td>Greatest Hits </td>
+<td>28</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div id="pie">
+<p>Discografia Mendez Eugenia 21/11/2016</p>
+</div>
+</div>
+</body>
+</html>

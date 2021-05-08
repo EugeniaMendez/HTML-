@@ -1,0 +1,51 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta name="author" content="alumno4" />
+<meta name="generator" content="Bluefish 2.2.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="ES"/>
+<meta name="copyright" content="Eugenia Mendez" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="vista para los usuarios de el contenido del centro de estetica" />
+<meta name="description" content="Pagina estatica de centro de estetica" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="Estilos/estilos.css" media="screen"/>
+</head>
+<body>
+<div id="contenedor">
+<div id="encabezado">
+</div>
+<div id="menu">
+<ul>
+ <li><a href="">Inicio</a></li>
+ <li><a href="integrantes.html">Tratamientos</a></li>
+ <li><a href="galeria.html">Galeria</a></li>
+ <li><a href="videos.html">Registrarse</a></li>
+ <li><a href="extras.html">Extras</a>
+ <ul>
+  <li><a href="historia.html">Historia</a></li>
+
+</ul>
+</ul>
+</div>
+<div id="fondo-lateral">
+
+
+<div id="contenidoi">
+<h1>Centro Integral de Belleza</h1>
+<p>Nuestros capicitado personal, brindaran la mejor atencion para que tu dia en el centro de estetica sea unico e inigualable
+</p>
+<h2>Comienzos de nuestra profesion</h2>
+<p>Jon Bon Jovi y David Bryan se conocieron en el instituto superior de Sayreville (Nueva Jersey). Los dos solían ensayar juntos después de clase y a finales de 1977 se unieron a la banda escolar Atlantic City Expressway, con la que lograron tener cierto eco en los clubes de la zona. En 1978 David Bryan decidió irse a estudiar a la Juilliard School of Music de Nueva York, y Jon se marchó con él. Durante su estancia en la gran ciudad, Jon trabajó en los estudios Power Station, propiedad de su primo Tony Bongiovi, barriendo suelos y limpiando retretes. Allí pudo ver grabar a grandes bandas de la talla de Queen, The Rolling Stones o Aerosmith.9 Durante esos años Jon escribió algunas canciones, que más tarde fueron editadas en un recopilatorio titulado The Power Station Years.</p>
+
+<p>En 1983, comenzamos nuestra trayectoria firmó un contrato con Polygram para poder producir un álbum. Jon, teniendo la libertad que le permitía el contrato, decidió reclutar a su antiguo compañero David Bryan, a su entonces guitarrista Dave Sabo y luego a Alec John Such, bajista de The Message, quien a su vez llamó a Tico Torres que era el baterista de su banda. Más tarde se uniría Richie Sambora, el cual se presentó al casting para escoger al nuevo guitarrista, reemplazando a Sabo. Es así como se forma la banda Bon Jovi, nombre que todos los miembros acordaron sin problemas.
+</p>
+</div>
+</div>
+<div id="pie">
+Eugenia 2/11/2016
+</div>
+</div>
+</body>
+</html>

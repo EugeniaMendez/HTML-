@@ -1,0 +1,132 @@
+h1,h2,h3,h4{
+margin:10px;}
+#encabezado{
+	height: 250px;
+background-image:url(logo.jpg);}
+p{b
+color: white;
+ background:black;
+ text-align: center;
+}
+p ul{
+background:black;}
+
+
+*{
+margin:0px;
+padding:0px; }
+body h1 {
+color:#FFFFFF;
+}
+
+body h2 {
+color:white;
+}
+#contenido ul{
+background:black;}
+
+body h3 {color:white;
+}
+#contenedor{
+width:1000px;
+margin:0 auto;
+}
+
+#contenidoi {
+
+width:780px;
+float:left;
+background:black;
+padding:10px;
+font-family:Algeria;
+font-size:20px; 
+}
+#contenido{
+padding:10px;
+background:black;
+font-family:Algeria;
+font-size:25px; 
+}
+#contenido ul{
+	list-style-type:none; 
+}
+
+#menu ul{
+	list-style: none;
+}
+#menu>ul>li{
+	float: left;
+	margin-left: 5px;}
+
+#menu ul li{
+	margin: 0 15px;
+	padding: 20px;
+	font-family: Algeria;
+}
+
+#menu li ul{
+	display:none;}
+
+#menu li:hover>ul{
+	display:block;
+	position: absolute;}
+	
+	
+	
+#menu a {text-decoration:none;
+}
+
+#menu a:hover{text-decoration:underline;
+border-radius: 5px;
+border: 10px;
+}
+
+#menu{
+height:60px;
+background:black;
+border:5px groove #2858DD;
+border-radius:20px;
+
+ }
+
+
+#barra-lateral {width:200px;
+float:left;
+}
+.social a{
+display:block;
+}
+
+body{
+background-image:url("fondo.jpg");
+}
+
+body p {
+color:white;
+}
+
+body ul li{
+color:white;
+}
+
+body form {
+color:white;}
+
+form p{
+text-align:left;}
+table{
+	color:white;
+	background:black; 
+}
+#fondo-lateral{
+background-image:url(fondobarra.jpg); 
+overflow:hidden;}
+
+#pie {background:black;
+color:white;
+height:60px;
+clear:left;}
+#pie p{
+font-family:Verdana;
+}
+
